@@ -1,0 +1,1 @@
+/www/sites/m2/wwwroot/magento2/vendor/magento/module-shipping/view/frontend/web/js/view/checkout/shipping/shipping-policy.js
