@@ -1,0 +1,6 @@
+[submodule "vendor/strategery/magento2-infinitescroll/infinite-ajax-scroll"]
+	path = vendor/strategery/magento2-infinitescroll/infinite-ajax-scroll
+	url = https://github.com/webcreate/infinite-ajax-scroll
+[submodule "vendor/strategery/Magento-InfiniteScroll"]
+	path = vendor/strategery/Magento-InfiniteScroll
+	url = https://github.com/Strategery-Inc/Magento-InfiniteScroll
