@@ -8070,42 +8070,6 @@
         "description": "N/A"
     },
     {
-        "name": "strategery/magento2-infinitescroll",
-        "version": "0.2.0",
-        "version_normalized": "0.2.0.0",
-        "source": {
-            "type": "git",
-            "url": "https://github.com/Strategery-Inc/Magento2-InfiniteScroll.git",
-            "reference": "00bc8af13de545d21ae5bcf84198b6350bdbb093"
-        },
-        "dist": {
-            "type": "zip",
-            "url": "https://api.github.com/repos/Strategery-Inc/Magento2-InfiniteScroll/zipball/00bc8af13de545d21ae5bcf84198b6350bdbb093",
-            "reference": "00bc8af13de545d21ae5bcf84198b6350bdbb093",
-            "shasum": ""
-        },
-        "require": {
-            "php": "~5.5.0|~5.6.0|~7.0.0"
-        },
-        "time": "2016-07-26T14:09:18+00:00",
-        "type": "magento2-module",
-        "installation-source": "dist",
-        "autoload": {
-            "files": [
-                "registration.php"
-            ],
-            "psr-4": {
-                "Strategery\\Infinitescroll\\": ""
-            }
-        },
-        "notification-url": "https://packagist.org/downloads/",
-        "license": [
-            "OSL-3.0",
-            "AFL-3.0"
-        ],
-        "description": "Magento2 InfiniteScroll module to load the next catalog page or results when scrolling down a page."
-    },
-    {
         "name": "phpseclib/phpseclib",
         "version": "2.0.6",
         "version_normalized": "2.0.6.0",

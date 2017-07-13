@@ -1,1 +1,0 @@
-/www/sites/m2/wwwroot/magento2/lib/web/es6-collections.js

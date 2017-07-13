@@ -142,6 +142,5 @@ return array(
     '018c503f9db4b13790b30e56269c2ca9' => $vendorDir . '/magento/module-review-sample-data/registration.php',
     'a45c4061c6e118e487c2608a375b43b1' => $vendorDir . '/magento/module-swatches-sample-data/registration.php',
     '47847ac47f7c00c55faf0958898a47e5' => $vendorDir . '/magento/module-offline-shipping-sample-data/registration.php',
-    '7ef55cf058123739aa231d8c18515692' => $vendorDir . '/strategery/magento2-infinitescroll/registration.php',
     'b4cf39431a4b949eea8aa69ebb3d39da' => $baseDir . '/app/etc/NonComposerComponentRegistration.php',
 );

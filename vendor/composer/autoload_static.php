@@ -143,7 +143,6 @@ class ComposerStaticInitf108ee2ee4043cd8b916e471d0003bf5
         '018c503f9db4b13790b30e56269c2ca9' => __DIR__ . '/..' . '/magento/module-review-sample-data/registration.php',
         'a45c4061c6e118e487c2608a375b43b1' => __DIR__ . '/..' . '/magento/module-swatches-sample-data/registration.php',
         '47847ac47f7c00c55faf0958898a47e5' => __DIR__ . '/..' . '/magento/module-offline-shipping-sample-data/registration.php',
-        '7ef55cf058123739aa231d8c18515692' => __DIR__ . '/..' . '/strategery/magento2-infinitescroll/registration.php',
         'b4cf39431a4b949eea8aa69ebb3d39da' => __DIR__ . '/../..' . '/app/etc/NonComposerComponentRegistration.php',
     );
 
@@ -193,7 +192,6 @@ class ComposerStaticInitf108ee2ee4043cd8b916e471d0003bf5
             'Symfony\\Component\\DependencyInjection\\' => 38,
             'Symfony\\Component\\Config\\' => 25,
             'Symfony\\CS\\' => 11,
-            'Strategery\\Infinitescroll\\' => 26,
             'StaticReview\\' => 13,
             'Seld\\PharUtils\\' => 15,
             'Seld\\JsonLint\\' => 14,
@@ -512,10 +510,6 @@ class ComposerStaticInitf108ee2ee4043cd8b916e471d0003bf5
         'Symfony\\CS\\' => 
         array (
             0 => __DIR__ . '/..' . '/fabpot/php-cs-fixer/Symfony/CS',
-        ),
-        'Strategery\\Infinitescroll\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/strategery/magento2-infinitescroll',
         ),
         'StaticReview\\' => 
         array (

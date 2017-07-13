@@ -1,1 +1,0 @@
-/www/sites/m2/wwwroot/magento2/vendor/magento/module-vault/view/frontend/web/js/view/payment/vault.js
